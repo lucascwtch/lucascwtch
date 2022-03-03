@@ -18,7 +18,6 @@
      <!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
   
-  </div>
     
 ## Another basic skills:
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
