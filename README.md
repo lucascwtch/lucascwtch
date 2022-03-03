@@ -10,7 +10,7 @@
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascwtch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascwtch&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div align="center"><br>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color-glass/48/000000/python.png"/>
@@ -18,13 +18,6 @@
      <!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
   
- <div> 
-<a href="https://www.linkedin.com/in/lucas-ac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/lucas_cwtch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas.cwtch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-</div>
-  </div>
 
     
 ## Another basic skills:
@@ -35,5 +28,6 @@
  ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
   
   [<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://api.whatsapp.com/send?phone=5511910135974&text=Oi%2C%20vi%20seu%20perfil%20no%20linkedin!)
-  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lucas_cwtch/)
+  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lucascwtch/)
   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:lucas.cwtch@gmail.com)
+  [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram logo" width="32"/>](https://instagram.com/lucas_cwtch)
