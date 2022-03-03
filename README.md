@@ -1,4 +1,4 @@
-### Opa, tudo bem?! 👋
+### Opa, tudo bem?! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 - 🔭 Estudo diversas linguagens, tanto front-end como back-end.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
