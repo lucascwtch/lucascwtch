@@ -1,6 +1,6 @@
 ### Opa, tudo bem?! 👋
 
-- 🔭 Estudo diversas linguagens, tanto front-end quanto back-end.
+- 🔭 Estudo diversas linguagens, tanto front-end como back-end.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
 - ⚡ Fun fact: ...
 <div align="center">
