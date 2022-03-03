@@ -3,6 +3,7 @@
 
 - 🔭 Estudo diversas linguagens, tanto front-end como back-end.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
+- 🗺️ I’m from São Paulo - SP, Brasil. 
 - ⚡ Fun fact: ...
 <div align="center">
   <a href="https://github.com/lucascwtch">
@@ -17,7 +18,15 @@
      <!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
 
+ <div> 
+<a href="https://www.linkedin.com/in/lucas-ac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://instagram.com/lucascwtch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas.cwtch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+</div>
   </div>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/lucas-ac/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </div>
+
+    
+## Another basic skills:
+  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+    
