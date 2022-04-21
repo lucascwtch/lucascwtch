@@ -4,7 +4,7 @@
 - 🔭 Estudo diversas linguagens, tanto front-end como back-end.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
 - 🗺️ I’m from São Paulo - SP, Brasil. 
-- ⚡ Fun fact: ...
+- ⚡ Atualmente: Sou Estagiário de T.I na Escola Almeida Santos!
 <div align="center">
   <a href="https://github.com/lucascwtch">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascwtch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
