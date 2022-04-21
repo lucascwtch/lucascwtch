@@ -3,7 +3,7 @@
 
 - 🔭 Estudo diversas linguagens, tanto front-end como back-end.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
-- 🗺️ I’m from São Paulo - SP, Brasil. 
+- 🗺️ Sou de São Paulo - SP, Brasil. 
 - ⚡ Atualmente: Sou Estagiário de T.I na Escola Almeida Santos!
 <div align="center">
   <a href="https://github.com/lucascwtch">
