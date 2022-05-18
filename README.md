@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/color-glass/48/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+   <!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
   
     
