@@ -31,7 +31,6 @@ Opa, tudo bem?!
   
  ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
   
-  [<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://api.whatsapp.com/send?phone=5511910135974&text=Oi%2C%20vi%20seu%20perfil%20no%20linkedin!)
+
   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lucas-ac/)
   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:lucas.cwtch@gmail.com)
-  [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram logo" width="32"/>](https://instagram.com/lucas_cwtch)
