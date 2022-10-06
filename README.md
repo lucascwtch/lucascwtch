@@ -5,9 +5,9 @@ Opa, tudo bem?!
 
 
 - 🔭 Estudo diversas linguagens, tanto front-end como back-end.
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC - 4° semestre.
 - 🗺️ Sou de São Paulo - SP, Brasil. 
-- ⚡ Atualmente: Sou Estagiário de T.I na Escola Almeida Santos!
+- ⚡ Atualmente: Sou Assistente de Help Desk na Actionline Brasil!
 <div align="center">
   <a href="https://github.com/lucascwtch">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascwtch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
