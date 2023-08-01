@@ -5,7 +5,7 @@ Opa, tudo bem?!
 
 
 - 🔭 Estudo diversas linguagens, tanto front-end como back-end.
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC - 5° semestre.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC - 6/6
 - 🗺️ Sou de São Paulo - SP, Brasil. 
 - ⚡ Atualmente: Sou Assistente de Help Desk na Actionline Brasil!
 <div align="center">
