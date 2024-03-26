@@ -4,7 +4,7 @@ Opa, tudo bem?!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20px"/>
 
 
-- 🔭 Estudo diversas linguagens, tanto front-end como back-end.
+- 🔭 Seja bem vindo, me chamo Lucas e tenho 20 anos!
 - 🗺️ Formado em Análise e Desenvolvimento de Sistemas na FATEC.
 - 🌱 Cursando Pós Graduação em Full Stack Development na FIAP.
 - 🗺️ Sou de São Paulo - SP, Brasil. 
