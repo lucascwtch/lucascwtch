@@ -10,7 +10,7 @@ Opa, tudo bem?!
 - 🗺️ Sou de São Paulo - SP, Brasil. 
 - ⚡ Atualmente: Sou Assistente de Help Desk na Actionline Brasil!
 
-  <div align="center"><br>
+  <div><br>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color-glass/48/000000/python.png"/>
