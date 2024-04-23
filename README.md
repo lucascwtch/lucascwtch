@@ -11,7 +11,7 @@ Opa, tudo bem?!
 - ⚡ Atualmente: Sou Assistente de Help Desk na Actionline Brasil!
 
   <div><br>
-    ## Skills:
+<h1>Skills:</h1><hr>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color-glass/48/000000/python.png"/>
