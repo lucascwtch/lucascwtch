@@ -9,11 +9,7 @@ Opa, tudo bem?!
 - 🌱 Cursando Pós Graduação em Full Stack Development na FIAP.
 - 🗺️ Sou de São Paulo - SP, Brasil. 
 - ⚡ Atualmente: Sou Assistente de Help Desk na Actionline Brasil!
-<div align="center">
-  <a href="https://github.com/lucascwtch">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascwtch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascwtch&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <div align="center"><br>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
