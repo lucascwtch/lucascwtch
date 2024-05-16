@@ -8,7 +8,6 @@ Opa, tudo bem?!
 - 🗺️ Formado em Análise e Desenvolvimento de Sistemas na FATEC.
 - 🌱 Cursando Pós Graduação em Full Stack Development na FIAP.
 - 🗺️ Sou de São Paulo - SP, Brasil. 
-- ⚡ Atualmente: Sou Assistente de Help Desk na Actionline Brasil!
 
   <div align="center"><br>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
