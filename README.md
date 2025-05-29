@@ -6,16 +6,18 @@ Opa, tudo bem?!
 
 - 🔭 Seja bem vindo, me chamo Lucas e tenho 21 anos!
 - 🗺️ Formado em Análise e Desenvolvimento de Sistemas na FATEC.
-- 🌱 Cursando Pós Graduação em Full Stack Development na FIAP.
+- 🎓 Pós-graduado em Full Stack Development pela FIAP.
 - 🗺️ Sou de São Paulo - SP, Brasil. 
 
   <div align="center"><br>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color-glass/48/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/officel/40/undefined/php-logo.png"/>   
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+   <img src="https://img.icons8.com/color/48/000000/react.png"/>
    <!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
   
